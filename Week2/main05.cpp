@@ -3,7 +3,7 @@
 int value = 10;
 
 namespace First {
-int value = 20;
+int value = 100;
 }
 
 namespace Second {
